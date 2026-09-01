@@ -1,9 +1,8 @@
 {
-  "days_running": 0,
+  "days_running": 0.0,
   "candidates": 0,
   "verified_real": 0,
   "false_alarms": 0,
   "unlabeled": 0,
-  "generated_at": null,
-  "note": "pre-launch: the live daemon has not started publishing yet"
+  "generated_at": "2026-09-01 21:28"
 }
